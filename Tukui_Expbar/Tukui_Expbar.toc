@@ -1,0 +1,7 @@
+## Interface: 40300
+## Author: Tukz
+## Version: 0.1
+## Title: |cffC495DDTukui|r_ExpBar
+## Notes: simple exp bar for Tukui
+
+core.lua
